@@ -1,1 +1,0 @@
-# Trivia-HB-Questions-Bot
